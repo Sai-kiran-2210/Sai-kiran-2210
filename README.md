@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+REST+APIs;SQL+%26+NoSQL+Databases;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Data+Structures+%26+Algorithms;SQL+%26+NoSQL+Databases;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,29 +15,30 @@
 - 🎯 Fresher actively seeking **Backend Developer** roles
 - 💼 Hands-on experience through **internship** & full-stack projects
 - 🌐 Comfortable across the full web stack — but my heart lives in the **backend**
-- 🗄️ Work with both **SQL** (MySQL, PostgreSQL) and **NoSQL** (MongoDB, Firebase)
-- 📈 Currently focused on: sharpening DSA, REST API design & cloud basics
+- 🗄️ Work with both **SQL** (MySQL) and **NoSQL** (MongoDB) + **PySpark** for big data
+- 📈 Currently focused on: sharpening DSA, Django REST APIs & cloud basics
 - 📫 Open to opportunities — let's connect!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frontend
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00B4D8?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
+### Databases & Big Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,8 +65,10 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🔧 Coming Soon | Node.js · MongoDB | Full-stack web application |
-| 🔧 Coming Soon | Express · PostgreSQL | REST API backend project |
+| 🛒 E-Commerce Website | Django · Angular · MySQL | Full-stack online shopping platform with product listing, cart, and order management |
+| 🍎 Fruits Restaurant | Python · Django · MongoDB | Restaurant web app with menu management, online ordering and billing system |
+| 🏧 ATM System | Python · Django · MySQL | Simulated ATM application with account authentication, withdrawal, deposit & balance check |
+| 🏦 Bank Management System | Django REST API · MySQL · PySpark | Complete banking system with account management, transactions, and data analytics |
 
 ---
 
@@ -75,10 +78,10 @@
   <a href="https://github.com/Sai-kiran-2210">
     <img src="https://img.shields.io/badge/GitHub-Sai--kiran--2210-181717?style=for-the-badge&logo=github" />
   </a>
-  <!-- Add your LinkedIn below after updating your profile URL -->
-  <!-- <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a> -->
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tanguturi-venkata-sai-kiran-182559407/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanguturi%20Venkata%20Sai%20Kiran-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
