@@ -60,6 +60,15 @@
 </p>
 
 ---
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/u3cBZx4JJA?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
 
 ## 🚀 Projects
 
