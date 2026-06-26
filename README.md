@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Tanguturi Venkata Sai Kiran 👋</h1>
+<h1 align="center">Hi there, I'm Sai Kiran 👋</h1>
 
 <p align="center">
-  <b>Python Backend Developer</b> &nbsp;·&nbsp; Full-Stack Skills &nbsp;·&nbsp; Passionate about building scalable systems
+  <b>Backend Developer</b> &nbsp;·&nbsp; Full-Stack Skills &nbsp;·&nbsp; Passionate about building scalable systems
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎯 Fresher actively seeking **Python Backend Developer** roles
+- 🎯 Fresher actively seeking **Backend Developer** roles
 - 💼 Hands-on experience through **internship** & full-stack projects
 - 🌐 Comfortable across the full web stack — but my heart lives in the **backend**
 - 🗄️ Work with both **SQL** (MySQL) and **NoSQL** (MongoDB) + **PySpark** for big data
@@ -96,6 +96,10 @@
   <a href="https://leetcode.com/u/u3cBZx4JJA/">
     <img src="https://img.shields.io/badge/LeetCode-u3cBZx4JJA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
+  <a href="https://www.naukri.com/mnjuser/profile">
+    <img src="https://img.shields.io/badge/Naukri-Tanguturi%20Venkata%20Sai%20Kiran-0051B5?style=for-the-badge&logo=naukri&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -105,4 +109,5 @@
 </p>
 
 <p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
+
 
