@@ -108,6 +108,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sai-kiran-2210&label=Profile+Views&color=00B4D8&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
+<p align="center"><i>"First, solve the problem. Then, write the code." — Tanguturi Venkata Sai Kiran</i></p>
 
 
