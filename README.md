@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sai Kiran 👋</h1>
+<h1 align="center">Hi there, I'm Tanguturi Venkata Sai Kiran 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> &nbsp;·&nbsp; Full-Stack Skills &nbsp;·&nbsp; Passionate about building scalable systems
+  <b>Python Backend Developer</b> &nbsp;·&nbsp; Full-Stack Skills &nbsp;·&nbsp; Passionate about building scalable systems
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎯 Fresher actively seeking **Backend Developer** roles
+- 🎯 Fresher actively seeking **Python Backend Developer** roles
 - 💼 Hands-on experience through **internship** & full-stack projects
 - 🌐 Comfortable across the full web stack — but my heart lives in the **backend**
 - 🗄️ Work with both **SQL** (MySQL) and **NoSQL** (MongoDB) + **PySpark** for big data
