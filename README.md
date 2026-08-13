@@ -7,6 +7,34 @@
 📈 Currently focused on: sharpening DSA, Django REST APIs & cloud basics
 📫 Open to opportunities — let's connect!
 
+
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Data+Structures+%26+Algorithms;SQL+%26+NoSQL+Databases;Always+learning+%F0%9F%9A%80
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00B4D8?style=for-the-badge&logo=thealgorithms&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Oracle%2FPL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+
+https://github-readme-stats.vercel.app/api?username=Sai-kiran-2210&show_icons=true&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kiran-2210&layout=compact&theme=tokyonight&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=Sai-kiran-2210&theme=tokyonight&hide_border=true
+https://leetcard.jacoblin.cool/u3cBZx4JJA?theme=dark&font=Fira+Code&ext=contest
+
+https://img.shields.io/badge/GitHub-Sai--kiran--2210-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/LinkedIn-Tanguturi%20Venkata%20Sai%20Kiran-0A66C2?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/LeetCode-u3cBZx4JJA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black
+https://img.shields.io/badge/Naukri-Tanguturi%20Venkata%20Sai%20Kiran-0051B5?style=for-the-badge&logo=naukri&logoColor=white
+https://komarev.com/ghpvc/?username=Sai-kiran-2210&label=Profile+Views&color=00B4D8&style=flat
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sai-kiran-2210&show_icons=true&theme=tokyonight&hide_border=true" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kiran-2210&layout=compact&theme=tokyonight&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-kiran-2210&theme=tokyonight&hide_border=true" width="60%" /> </p>
 🧩 LeetCode Stats
