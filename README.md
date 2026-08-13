@@ -47,18 +47,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sai-kiran-2210&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kiran-2210&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sai-kiran-2210&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sai-kiran-2210&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-kiran-2210&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/streak?username=Sai-kiran-2210&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 ---
 
 ## 🧩 LeetCode Stats
@@ -106,4 +102,4 @@
   <img src="https://komarev.com/ghpvc/?username=Sai-kiran-2210&label=Profile+Views&color=00B4D8&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
+<p align="center"><i>"First, solve the problem. Then, write the code." — SAI KIRAN</i></p>
