@@ -15,7 +15,7 @@
 - 🎯 Fresher actively seeking **Backend Developer** roles
 - 💼 Hands-on experience through **internship** & full-stack projects
 - 🌐 Comfortable across the full web stack — but my heart lives in the **backend**
-- 🗄️ Work with both **SQL** (MySQL) and **NoSQL** (MongoDB) + **PySpark** for big data
+- 🗄️ Work with both **SQL** (Oracle/PL-SQL) and **NoSQL** (MongoDB) databases
 - 📈 Currently focused on: sharpening DSA, Django REST APIs & cloud basics
 - 📫 Open to opportunities — let's connect!
 
@@ -26,7 +26,6 @@
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00B4D8?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 ### Frontend
@@ -35,10 +34,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Databases & Big Data
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%2FPL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -109,5 +107,6 @@
 </p>
 
 <p align="center"><i>"First, solve the problem. Then, write the code." — Tanguturi Venkata Sai Kiran</i></p>
+
 
 
