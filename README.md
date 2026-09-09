@@ -15,7 +15,7 @@
 - 🎯 Fresher actively seeking **Backend Developer** roles
 - 💼 Hands-on experience through **internship** & full-stack projects
 - 🌐 Comfortable across the full web stack — but my heart lives in the **backend**
-- 🗄️ Work with both **SQL** (MySQL) and **NoSQL** (MongoDB) + **PySpark** for big data
+- 🗄️ Work with both **ORACLE PL/SQL** (MySQL) and **NoSQL** (MongoDB)
 - 📈 Currently focused on: sharpening DSA, Django REST APIs & cloud basics
 - 📫 Open to opportunities — let's connect!
 
